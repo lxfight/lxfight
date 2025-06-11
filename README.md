@@ -35,12 +35,9 @@
 <br>
 
 **💻 我的编程活动**
-<!-- WakaTime Stats -->
-<p align="center">
-  <a href="https://wakatime.com/@lxfight">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxfight&theme=dracula&hide_border=true&layout=compact" />
-  </a>
-</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
@@ -51,7 +48,7 @@
   <a href="https://github.com/lxfight">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxfight&theme=dracula&hide_border=true&area=true" />
   </a>
-p>
+</p>
 
 <br>
 
