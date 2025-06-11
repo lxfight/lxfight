@@ -37,6 +37,75 @@
 **💻 我的编程活动**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 3.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌆 Daytime                226 commits         ███████████░░░░░░░░░░░░░░   45.66 % 
+🌃 Evening                192 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Wednesday                45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Friday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+Saturday                 127 commits         ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ████████████████████░░░░░   78.57 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lxfight/lxfight/main/assets/bar_graph.png)
+
+
+ Last Updated on 11/06/2025 03:36:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
