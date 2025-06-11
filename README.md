@@ -1,45 +1,60 @@
-# Hi there 👋 I'm [lxfight]
+### Hi there, I'm lxfight 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/lxfight?style=social)](https://github.com/lxfight)
+我是一名对人工智能充满热情的全栈开发者和开源贡献者。我热衷于探索和实践大型语言模型（LLM）的各种可能性，并致力于开发能让AI更智能、更有用的工具。
 
-💻 **Full-Stack Developer** | 🌍 Open Source Contributor | 🚀 Tech Blogger
+<br>
 
----
+<!-- GitHub Stats & Languages -->
+<p align="center">
+  <a href="https://github.com/lxfight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxfight&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxfight&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
 
-# 🚀 Hi, I'm Lxfight | [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lxfight.lxfight)](https://github.com/lxfight)
+<br>
 
-[![GitHub Followers](https://img.shields.io/github/followers/lxfight?style=social)](https://github.com/lxfight)
-![Coding Time](https://img.shields.io/badge/Weekly%20Coding-20hrs%2Fweek-blueviolet)
+**🚀 我在做什么 & 我感兴趣的**
 
----
+*   🧠 **RAG与AI记忆:** 我正在深入研究检索增强生成（RAG）技术，并开发了多个项目来实现AI的长期记忆和知识库对接功能。
+*   🤖 **聊天机器人插件开发:** 我是 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的积极贡献者，为其生态开发了多款实用插件。
+*   🔧 **后端开发 & 工具链:** 我喜欢构建稳健的后端服务和能够解决实际问题的开发工具。
+*   🌐 **开源：** 我坚信开源的力量，并积极将我的项目开源分享。
 
+<br>
 
-## 🌟 项目
+**✨ 我的亮点项目**
 
-### [🔗 Automatic Network Login](https://github.com/lxfight/Automatic-Network-Login)
-[![GitHub Stars](https://img.shields.io/github/stars/lxfight/Automatic-Network-Login?style=social)](https://github.com/lxfight/Automatic-Network-Login/stargazers)
-![Windows](https://img.shields.io/badge/-Windows%2010-0078D6?logo=windows)
+| 项目名称 | 描述 |
+| :--- | :--- |
+| 🧠 [**astrbot\_plugin\_mnemosyne**](https://github.com/lxfight/astrbot_plugin_mnemosyne) | 一个为AstrBot实现的基于RAG技术的长期记忆插件，让机器人能“记住”更久远的对话。 |
+| 📚 [**astrbot\_plugin\_knowledge\_base**](https://github.com/lxfight/astrbot_plugin_knowledge_base) | 允许AstrBot连接到自定义知识源的插件，通过RAG技术让机器人能基于专业知识回答问题。 |
+| 😂 [**astrbot\_plugin\_memeify**](https://github.com/lxfight/astrbot_plugin_memeify) | 一个有趣的AstrBot插件，能让大语言模型（LLM）在回复时带上表情包，增加趣味性。 |
+| 🚀 [**astrbot2github**](https://github.com/lxfight/astrbot2github) | 一个基于Deno的GitHub加速访问服务，专为解决AstrBot及其他项目在国内访问GitHub速度慢的问题。 |
 
----
+<br>
 
-### [🤖 AstrBot Memeify Plugin](https://github.com/lxfight/astrbot_plugin_memeify)
-![NLP](https://img.shields.io/badge/-NLP-B71C1C?logo=tensorflow)
+**💻 我的编程活动**
+<!-- WakaTime Stats -->
+<p align="center">
+  <a href="https://wakatime.com/@lxfight">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lxfight&theme=dracula&hide_border=true&layout=compact" />
+  </a>
+</p>
 
----
+<br>
 
-### [🧠 Mnemosyne Memory Plugin](https://github.com/lxfight/astrbot_plugin_mnemosyne)
-![RAG](https://img.shields.io/badge/-RAG%20Framework-40E0D0)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch)
+**📈 我的GitHub活动图**
 
-**技术架构：**
-```mermaid
-graph LR
-A[用户输入] --> B{记忆检索}
-B -->|实时查询| C[(向量数据库)]
-C --> E[语义增强]
-E --> F[LLM生成]
-```
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <a href="https://github.com/lxfight">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxfight&theme=dracula&hide_border=true&area=true" />
+  </a>
+p>
 
----
+<br>
 
+**📫 如何找到我**
 
+*   **GitHub:** [lxfight](https://github.com/lxfight)
