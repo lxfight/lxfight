@@ -37,9 +37,6 @@
 **💻 我的编程活动**
 
 <!--START_SECTION:waka-->
-<p align="center">
-  <img src="https://wakatime.com/share/@lxfight/3c1f8b2e-0d5a-4c6b-9f7d-2e0c5f8b1c3f.svg" alt="WakaTime Stats" width="600"/>
-</p>
 <!--END_SECTION:waka-->
 
 <br>
@@ -55,14 +52,6 @@
 
 <br>
 
-**📊 我的编程习惯**
-
-<!--START_SECTION:metrics-->
-<p align="center">
-  <img src="metrics.svg" alt="Metrics" width="600"/>
-</p>
-<!--END_SECTION:metrics-->
-<br>
 
 **📫 如何找到我**
 
