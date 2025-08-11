@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&text=Hi%20there,%20I'm%20lxfight%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=全栈开发者+%7C+开源贡献者;热爱人工智能与大型语言模型;探索+RAG+%26+AI+长期记忆;代码+开源+知识分享" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;AI+%26+RAG+Research;Code+Sharing+Advocate" />
 </p>
 
 ---
