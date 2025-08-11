@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        
+      - name: Make dist dir
+        run: mkdir -p dist
 
       - name: Generate Snake Animation
         uses: Platane/snk@master
