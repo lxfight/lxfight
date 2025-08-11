@@ -1,130 +1,68 @@
-### Hi there, I'm lxfight 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&text=Hi%20there,%20I'm%20lxfight%20👋&fontSize=40&fontAlignY=35&animation=twinkling" />
 
-我是一名对人工智能充满热情的全栈开发者和开源贡献者。我热衷于探索和实践大型语言模型（LLM）的各种可能性，并致力于开发能让 AI 更智能、更有用的工具。
-
-<br>
-
-<!-- GitHub Stats & Languages -->
 <p align="center">
-  <a href="https://github.com/lxfight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lxfight&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxfight&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=全栈开发者+%7C+开源贡献者;热爱人工智能与大型语言模型;探索+RAG+%26+AI+长期记忆;代码+开源+知识分享" alt="Typing SVG" />
 </p>
 
-<br>
+---
 
-**🚀 我在做什么 & 我感兴趣的**
+## 🚀 关于我
+💡 热衷探索和实践 **大型语言模型（LLM）** 的各种可能性  
+🧠 深入研究 **RAG** 与 AI 记忆技术  
+🤖 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 核心插件开发者  
+🌐 坚信 **开源改变世界**  
 
-- 🧠 **RAG 与 AI 记忆:** 我正在深入研究检索增强生成（RAG）技术，并开发了多个项目来实现 AI 的长期记忆和知识库对接功能。
-- 🤖 **聊天机器人插件开发:** 我是 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的积极贡献者，为其生态开发了多款实用插件。
-- 🔧 **后端开发 & 工具链:** 我喜欢构建稳健的后端服务和能够解决实际问题的开发工具。
-- 🌐 **开源：** 我坚信开源的力量，并积极将我的项目开源分享。
+---
 
-<br>
+## 🏆 精选项目
+| 项目 | 描述 |
+|------|------|
+| 🧠 [**astrbot_plugin_mnemosyne**](https://github.com/lxfight/astrbot_plugin_mnemosyne) | 基于 RAG 的长期记忆插件，让机器人记住更多对话 |
+| 📚 [**astrbot_plugin_knowledge_base**](https://github.com/lxfight/astrbot_plugin_knowledge_base) | AstrBot 接入自定义知识源的插件 |
+| 😂 [**astrbot_plugin_memeify**](https://github.com/lxfight/astrbot_plugin_memeify) | 让 LLM 回复时带上表情包 |
+| 🚀 [**astrbot2github**](https://github.com/lxfight/astrbot2github) | Deno GitHub 加速访问服务 |
 
-**✨ 我的亮点项目**
+---
 
-| 项目名称                                                                                         | 描述                                                                                              |
-| :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
-| 🧠 [**astrbot_plugin_mnemosyne**](https://github.com/lxfight/astrbot_plugin_mnemosyne)           | 一个为 AstrBot 实现的基于 RAG 技术的长期记忆插件，让机器人能“记住”更久远的对话。                  |
-| 📚 [**astrbot_plugin_knowledge_base**](https://github.com/lxfight/astrbot_plugin_knowledge_base) | 允许 AstrBot 连接到自定义知识源的插件，通过 RAG 技术让机器人能基于专业知识回答问题。              |
-| 😂 [**astrbot_plugin_memeify**](https://github.com/lxfight/astrbot_plugin_memeify)               | 一个有趣的 AstrBot 插件，能让大语言模型（LLM）在回复时带上表情包，增加趣味性。                    |
-| 🚀 [**astrbot2github**](https://github.com/lxfight/astrbot2github)                               | 一个基于 Deno 的 GitHub 加速访问服务，专为解决 AstrBot 及其他项目在国内访问 GitHub 速度慢的问题。 |
-
-<br>
-
-**💻 我的编程活动**
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2031%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 7.0 kB Used in GitHub's Storage 
- > 
-> 🏆 420 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-🌆 Daytime                499 commits         ████████████░░░░░░░░░░░░░   48.54 % 
-🌃 Evening                349 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Tuesday                  72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Thursday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Friday                   262 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Saturday                 213 commits         █████░░░░░░░░░░░░░░░░░░░░   20.72 % 
-Sunday                   129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Hong_Kong
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   17 repos            ██████████████████░░░░░░░   73.91 % 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/lxfight/lxfight/main/assets/bar_graph.png)
-
-
- Last Updated on 10/08/2025 18:47:12 UTC
-<!--END_SECTION:waka-->
-
-<br>
-
-**📈 我的 GitHub 活动图**
-
-<!-- GitHub Activity Graph -->
+## 🛠 技能栈
 <p align="center">
-  <a href="https://github.com/lxfight">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxfight&theme=dracula&hide_border=true&area=true" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,html,css,nodejs,svelte,git,github,docker,linux&perline=8" />
 </p>
 
-<br>
+---
 
+## 📊 GitHub 统计
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lxfight&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxfight&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-**📫 如何找到我**
+---
 
-- **GitHub:** [lxfight](https://github.com/lxfight)
+## 📈 动态贡献曲线
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lxfight&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 Snake 动画
+<p align="center">
+  <img src="https://github.com/lxfight/lxfight/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 联系我
+<p align="center">
+  <a href="https://github.com/lxfight"><img src="https://img.shields.io/badge/GitHub-lxfight-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lxfight&color=blue&style=flat-square" /> 
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
