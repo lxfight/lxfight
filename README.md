@@ -48,8 +48,9 @@
 
 ## 🐍 Snake 动画
 <p align="center">
-  <img src="https://github.com/lxfight/lxfight/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/lxfight/lxfight/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
