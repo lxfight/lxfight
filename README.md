@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-lxfight-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-%E5%90%88%E8%82%A5%EF%BC%8C%E5%AE%89%E5%BE%BD-1f6f8b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Public%20Repos-36-274c77?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AstrBot%20%7C%20RAG%20%7C%20Desktop-6096ba?style=for-the-badge" />
 </p>
 
-<h1 align="center">Good li</h1>
-
-<p align="center"><strong>lxfight</strong></p>
+<h1 align="center">lxfight</h1>
 
 <p align="center">
   构建面向真实使用场景的 AI 插件、桌面能力与工程化工具
@@ -19,13 +16,9 @@
 
 ## 关于我
 
-| 信息 | 内容 |
-|:--|:--|
-| GitHub | [github.com/lxfight](https://github.com/lxfight) |
-| 显示名称 | Good li |
-| 所在地 | 合肥，安徽 |
-| 主要语言 | Python、TypeScript |
-| 长期方向 | AstrBot 生态、RAG、长期记忆、桌面集成 |
+专注于 AstrBot 生态扩展、RAG 与长期记忆、桌面交互能力，以及面向真实场景的开发工具建设。
+
+更关心能力是否能落地、插件是否能持续维护、工具链是否能减少重复工作，而不是堆砌概念或展示式包装。
 
 ### 当前关注
 
