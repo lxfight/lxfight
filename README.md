@@ -1,74 +1,51 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-lxfight-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Public%20Repos-36-274c77?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AstrBot%20%7C%20RAG%20%7C%20Desktop-6096ba?style=for-the-badge" />
-</p>
-
-<h1 align="center">lxfight</h1>
+<h1 align="center">你好呀，我是 lxfight 👋</h1>
 
 <p align="center">
-  构建面向真实使用场景的 AI 插件、桌面能力与工程化工具
+  <a href="https://wall.alphacoders.com/big.php?i=1306854">
+    <img src="./assets/lycoris-recoil.jpg" alt="《莉可丽丝》中的锦木千束与井之上泷奈" width="520" />
+  </a>
 </p>
 
 <p align="center">
-  主要使用 Python 与 TypeScript，持续投入 AstrBot 生态、RAG、长期记忆、桌面交互与开发者工具方向。
+  <sub>《莉可丽丝》· 千束 &amp; 泷奈 · <a href="https://wall.alphacoders.com/big.php?i=1306854">图片来源</a></sub>
 </p>
 
-## 关于我
+## 🌸 关于我
 
-专注于 AstrBot 生态扩展、RAG 与长期记忆、桌面交互能力，以及面向真实场景的开发工具建设。
+平时写写代码，闲下来也有自己的小安排：
 
-更关心能力是否能落地、插件是否能持续维护、工具链是否能减少重复工作，而不是堆砌概念或展示式包装。
+- 🎮 没事打打 **CSGO**。
+- 📺 偶尔看看动漫。
+- 🍳 空闲的时候做做饭。
 
-### 当前关注
+写代码主要用 **Python** 和 **TypeScript**，也会写一点 **Rust**。这里放着我做过的插件和小工具，欢迎随便逛逛～
 
-- 基于 LLM 的插件式能力扩展
-- RAG、知识库与长期记忆机制
-- AstrBot 相关插件与桌面侧集成
-- 更稳定的自动化、代理和工作流工具
+<details>
+  <summary>🧰 展开我的工具箱</summary>
 
-## 代表项目
-
-| 项目 | 简介 | 技术栈 |
-|:--|:--|:--|
-| [astrbot2github](https://github.com/lxfight/astrbot2github) | 为 AstrBot 提供基于 Deno 的 GitHub 加速访问服务。 | TypeScript / Deno |
-| [astrbot_plugin_mnemosyne](https://github.com/lxfight/astrbot_plugin_mnemosyne) | 基于 RAG 的长期记忆插件，聚焦对话记忆沉淀与召回。 | Python |
-| [astrbot_plugin_knowledge_base](https://github.com/lxfight/astrbot_plugin_knowledge_base) | 面向自定义知识源接入的知识库插件。 | Python |
-| [astrbot_plugin_deepresearch](https://github.com/lxfight/astrbot_plugin_deepresearch) | 为 AstrBot 提供 Deep Research 能力方案。 | Python |
-| [astrbot_plugin_memeify](https://github.com/lxfight/astrbot_plugin_memeify) | 用于 LLM 回复表情包生成与对话增强的插件。 | Python |
-| [astrbot-live2d-desktop](https://github.com/lxfight/astrbot-live2d-desktop) | 面向桌面场景的 Live2D 交互客户端探索。 | TypeScript / Tauri |
-
-## 技术焦点
-
-- Python 与 TypeScript 为主的应用开发
-- AI Agent、RAG、记忆系统与插件架构
-- AstrBot 生态周边扩展与工具化建设
-- 桌面端交互、桥接协议与集成方案
-
-| 类别 | 技术 |
+| 类别 | 技术与工具 |
 |:--|:--|
-| 语言 | Python, TypeScript, JavaScript |
-| 应用与框架 | Deno, Node.js, Tauri, Svelte |
-| 工程与部署 | Docker, Git, Linux |
-| 关注主题 | Agent, RAG, Knowledge Base, Memory System |
+| 语言 | `Python` · `TypeScript` · `JavaScript` · `Rust` |
+| Web | `FastAPI` · `React` · `Vue 3` · `Svelte` |
+| 桌面 | `Electron` · `Tauri` · `Live2D` |
+| 工具 | `uv` · `Git` · `Docker` · `GitHub Actions` |
 
-## 提交记录
+</details>
+
+## 🌱 GitHub 日常
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lxfight/lxfight/main/metrics.plugin.isocalendar.svg" alt="年度提交日历" width="78%" />
+  <img src="./metrics.plugin.isocalendar.svg" alt="近一年 GitHub 贡献日历" width="520" />
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfight/lxfight/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfight/lxfight/output/github-contribution-grid-snake.svg" />
-    <img alt="贡献记录动画" src="https://raw.githubusercontent.com/lxfight/lxfight/output/github-contribution-grid-snake.svg" width="78%" />
+    <img alt="贡献记录动画" src="https://raw.githubusercontent.com/lxfight/lxfight/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </p>
 
-## 联系方式
+## 📬 来找我
 
-<p align="center">
-  <a href="https://github.com/lxfight"><img src="https://img.shields.io/badge/Profile-Visit%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:1686540385@qq.com"><img src="https://img.shields.io/badge/Email-1686540385%40qq.com-1f6f8b?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[GitHub](https://github.com/lxfight) · [lxfight007@gmail.com](mailto:lxfight007@gmail.com)
